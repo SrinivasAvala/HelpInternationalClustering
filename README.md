@@ -1,5 +1,5 @@
 # HelpInternationalClustering
-Help International Clustering modelling assignment
+The objective of this Case study is to identify the top 5 backward countries across the globe to get the proper aid using Machine learning Clustering concepts
 
 # Business requirement
 
